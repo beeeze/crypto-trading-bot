@@ -1,0 +1,8 @@
+# Ignore sensitive files
+config.py
+*.log
+__pycache__
+env/
+venv/
+*.pyc
+.DS_Store
